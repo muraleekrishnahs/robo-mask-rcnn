@@ -1,4 +1,4 @@
-Msc Artificial Intelligence Project
+Msc Artificial Intelligence Project - 
 Detection and segmentation of robot hands and objects selected for picking
 --------------------------------------------------------------------------
 
